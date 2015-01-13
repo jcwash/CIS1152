@@ -29,12 +29,19 @@ Letter grades will be determined using a standard percentage point evaluation. G
 
 | Grade | Percentage |
 |-------|------------|
-| A+ | 100 - 97 |
-| A | 97 - 90 |
-| B | 89 - 80 |
-| C | 79 - 70 |
-| D | 69 - 60 |
-| F | 60 - 0 |
+| A+ | 97-100 |
+| A | 94-96 |
+| A- | 90-93 |
+| B+ | 86-89 |
+| B | 83-85 |
+| B- | 80-82 |
+| C+ | 76-79 |
+| C | 73-75 |
+| C- | 70-72 |
+| D+ | 67-69 |
+| D | 64-66 |
+| D- | 61-63 |
+| F | Below 60 |
 
 All assignments are due at the beginning of class on the date due. Exceptions are only made with a verifiable excuse (e.g. doctor or funeral directors note) or prior (i.e. before class) arrangement.
 
@@ -57,7 +64,7 @@ In compliance with college policy and equal access laws, I am available to discu
 
 ## Teaching Methods
 ###Hybrid Learning
-This class is a hybrid learning class. You are expected to keep up with the reading and assignments. As one-third of this class is online, organization on your part will be key to getting a good grade in this class. The lecture and quizzes take place online; the amount of self study time required is as follows:
+This class is a hybrid learning class. You are expected to keep up with the reading and assignments. As two-third of this class is online, organization on your part will be key to getting a good grade in this class. The lecture and quizzes take place online; the amount of self study time required is as follows:
 
 | Element | Time |
 |---------|------|
