@@ -28,8 +28,7 @@ If your programming a project and it does not fall into one of the above categor
 
 [![PHP Infographic](./images/PHP_Inforgraphic.jpg)](http://www.whoishostingthis.com/blog/wp-content/uploads/2014/08/What-Code-Should-You-Learn.jpg)
 
-## History of PHP
-
+# History of PHP
 
 The origins of PHP date back to 1995 when an independent software development contractor named Rasmus Lerdorf developed a Perl/CGI script that enabled him to know how many visitors were reading his online résumé. His script performed two tasks: logging visitor information, and displaying the count of visitors to the Web page. Because the Web as we know it today was still young at that time, tools such as these were nonexistent, and they prompted e-mails inquiring about Lerdorf’s scripts. Lerdorf thus began giving away his toolset, dubbed Personal Home Page (PHP).
 
@@ -39,7 +38,7 @@ The clamor for the PHP toolset prompted Lerdorf to continue developing the langu
 
 The new PHP release was extremely popular, and a core team of developers soon joined Lerdorf. They kept the original concept of incorporating code directly alongside HTML and rewrote the parsing engine, giving birth to PHP 3.0. By the June 1998 release of version 3.0, more than 50,000 users were using PHP to enhance their Web pages.
 
-### PHP 4
+## PHP 4
 
 Development continued at a hectic pace over the next two years, with hundreds of functions being added and the user count growing in leaps and bounds. At the beginning of 1999, [Netcraft](http://www.netcraft.com), an Internet research and analysis company, reported a conservative estimate of a user base of more than 1 million, making PHP one of the most popular scripting languages in the world. Its popularity surpassed even the greatest expectations of the developers, as it soon became apparent that users intended to use PHP to power far larger applications than originally anticipated. Two core developers, Zeev Suraski and Andi Gutmans, took the initiative to completely rethink the way PHP operated, culminating in a rewriting of the PHP parser, dubbed the Zend scripting engine. The result of this work was in the PHP 4 release.
 
@@ -59,7 +58,7 @@ PHP 4 added several enterprise-level improvements to the language, including the
 
 PHP 4 represented a gigantic leap forward in the language’s maturity, offering new features, power, and scalability that swayed an enormous number of burgeoning and expert developers alike. Yet the PHP development team wasn’t content to sit on their hands for long and soon set upon another monumental effort, one that could establish the language as the 800-pound gorilla of the Web scripting world: PHP 5.
 
-### PHP 5
+## PHP 5
 
 Version 5 was yet another watershed in the evolution of the PHP language. Although previous major releases had enormous numbers of new library additions, version 5 contains improvements over existing functionality and adds several features commonly associated with mature programming language architectures:
 
@@ -67,7 +66,4 @@ Version 5 was yet another watershed in the evolution of the PHP language. Althou
 -   Try/catch exception handling: Devising custom error-handling strategies within structural programming languages is, ironically, error-prone and inconsistent. To remedy this problem, version 5 supports exception handling. Long a mainstay of error management in many languages, such as C++, C#, Python, and Java, exception handling offers an excellent means for standardizing your error-reporting logic.
 -   Improved XML and Web Services support: XML support is now based on the libxml2 library, and a new and rather promising extension for parsing and manipulating XML, known as SimpleXML, has been introduced. In addition, a SOAP extension is now available.
 -   Native support for SQLite: Always keen on choice, the developers added support for the powerful yet compact [SQLite](http://www.sqlite.org) database server. SQLite offers a convenient solution for developers looking for many of the features found in some of the heavyweight database products without incurring the accompanying administrative overhead.
-
-
-
 

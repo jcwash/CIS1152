@@ -200,3 +200,8 @@ Use interactive adding…
 ```bash
 git add -i
 ```
+## GitHub
+
+### What is GitHub?
+Although you can run your own Git server locally, Github is both a remote server, a community of developers, and a graphical web interface for managing your Git project. It’s free to use for up to 5 public repositories – that is, when anyone can view or fork your code – with low cost plans for private projects. You will be signing up for GitHub as part of this class.
+
