@@ -129,6 +129,7 @@ Sync a fork of a repository to keep it up-to-date with the upstream repository.
     ```
 
 5. Merge the changes from upstream/master into your local master branch. This brings your fork's master branch into sync with the upstream repository, without losing your local changes.
+
     ```bash
     git merge upstream/master
     # Updating a422352..5fdff0f
@@ -139,6 +140,7 @@ Sync a fork of a repository to keep it up-to-date with the upstream repository.
     #  delete mode 100644 README
     #  create mode 100644 README.md
     ```
+
 If your local branch didn't have any unique commits, Git will instead perform a "fast-forward":
 
 ```bash
@@ -148,3 +150,18 @@ git merge upstream/master
 # README.md                 |    5 +++--
 # 1 file changed, 3 insertions(+), 2 deletions(-)
 ```
+## Creating Your Hello World Page
+
+The first project is less about coding in PHP and more about showing me that you know how to put a page together. In the `public_html` folder from the skeleton project create a file call `index.php`. In that file place the following code.
+
+Create a web page that [HTML5 W3C compliant](http://validator.w3.org). The page must use CSS and JS. This is your chance to shine. Show me what you learned in CIS1151. Make your previous instructor proud!
+
+Once you have completed that task, add the following code to the body of the page.
+
+```php
+<?php
+    echo "Hello World!";
+?>
+```
+
+Add, commit, and push your project to your repo. Email me a link to your repo. You are finished. Wasn't that easy.
