@@ -1,13 +1,13 @@
-# Lecture 2
+# Lecture 2A
 
 ## PHP Basics
 ### Embedding PHP
 
 PHP is an embedded language. What is an embedded language you ask? An embedded language is a coding language that is embedded in the data file, which it is acting upon. Unlike some embedded scripting languages (JavaScript for instance), PHP can also be run as a script external to the data it is acting on, and can in fact pull data from multiple sources. However, it is technically a part of the document it produces.
 
-You invoke PHP by making a call to an HTTP server for a document that ends in a .php suffix. The server, seeing the suffix, assumes that there is PHP code embedded in that document that needs to be processed and passes it to a PHP parser for processing before returning the document to the requesting client. (If there is no PHP code, nothing happens, and the document gets sent on as is.) Thus, PHP can modify, overwrite, or even replace the document, depending on circumstance.
+You invoke PHP by making a call to an HTTP server for a document that ends in a `.php` suffix. The server, seeing the suffix, assumes that there is PHP code embedded in that document that needs to be processed and passes it to a PHP parser for processing before returning the document to the requesting client. (If there is no PHP code, nothing happens, and the document gets sent on as is.) Thus, PHP can modify, overwrite, or even replace the document, depending on circumstance.
 
-As a for instance, I could have a file called myfile.php that would be a script that evaluates what type of browser the client is using and uses that information to substitute a document appropriate to that browser for itself. This would allow me to have one address for the page, even though there may be many different pages to address issues of browser incompatibilities.
+As a for instance, I could have a file called `myfile.php` that would be a script that evaluates what type of browser the client is using and uses that information to substitute a document appropriate to that browser for itself. This would allow me to have one address for the page, even though there may be many different pages to address issues of browser incompatibilities.
 On of the most common uses of PHP is to generate dynamic content that is adaptive. It can change the content on a page to suit different browsers. Another common use is assembling data from diverse data sources into a single document for return to the user.
 
 ### The XML Processing Directive
